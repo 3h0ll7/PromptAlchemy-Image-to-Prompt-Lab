@@ -1,0 +1,5 @@
+{
+  "name": "PromptAlchemy",
+  "description": "An intelligent image-to-prompt creative lab that transforms visual inputs into text prompts for Art, Video, Code, and Storytelling using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
